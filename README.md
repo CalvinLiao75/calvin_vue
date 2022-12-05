@@ -1,4 +1,9 @@
 # calvin_vue_resume
+
+詳細影片
+
+https://youtu.be/n3UJskxb-9s
+
 有亮暗色系主題可轉換
 
 網頁內容
